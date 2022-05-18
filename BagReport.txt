@@ -1,0 +1,10 @@
+1)Summary
+2)Project
+3)Component
+4)Version
+5)Severity
+6)Priority
+7)Steps to reproduce
+8)Actual result
+9)Expect result
+10)Additional informatison
